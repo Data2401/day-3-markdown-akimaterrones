@@ -1,5 +1,5 @@
 ---
-title: "Day 3 - Markdown"
+title: 'RMarkdown:  In Class Assignment'
 author: "Akima Terrones"
 output: html_document
 date: "Data 2401"
